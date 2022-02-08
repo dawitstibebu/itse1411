@@ -31,7 +31,7 @@ header h1 {
  	margin: 0;
  	padding: 0;
  	list-style-type: none;
- 	color: #F7F3DE;
+ 	color: #7C1A00;
  }
 nav li{
  	margin: 10px;
@@ -41,7 +41,7 @@ nav li{
  }
  nav a{
  	color:white;
- 	background-color: #F7F3DE;
+ 	background-color: #8C9273;
  	padding: 3px 60px 3px 3px;
  	text-decoration: none;
  }
