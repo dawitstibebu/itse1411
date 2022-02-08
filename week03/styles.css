@@ -33,6 +33,11 @@ header h1 {
  	list-style-type: none;
  	color: #7C1A00;
  }
+nav li{
+ 	margin: 10px;
+ 	border: 1px solid #7C1A00;
+ 	background-color: #FFE597;
+ }
  nav a{
  	color:white;
  	background-color: #8C9273;
