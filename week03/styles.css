@@ -63,7 +63,7 @@ header h1 {
 
  #content {
  	background-image: url("trans-bg.gif"); 
- 	border: 1px solid #F7F3DE;
+ 	border: 1px solid black;
  	margin-left: 180px;
  	padding: 10px;
  }
