@@ -47,7 +47,7 @@ header h1 {
  	margin: 10px;
  	border: 1px solid;
  	border-color: #7C1A00;
- 	background-color: #FFE597;
+ 	background-color: #F7F3DE;
  }
 
  nav a{
@@ -91,7 +91,7 @@ h3{
 	padding-left: 20px;
 }
 blockquote {
-	background-color: #FFE597;
+	background-color: #F7F3DE;
 }
 ul{
 	list-style-type: square;
