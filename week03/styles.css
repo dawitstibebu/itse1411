@@ -39,7 +39,7 @@ header h1 {
  nav ul{
  	margin: 0;
  	padding: 0;
-	border: 1px solid #F7F3DE;
+	border: 1px solid black;
  	list-style-type: none;
  	color: 7C1A00;
  }
