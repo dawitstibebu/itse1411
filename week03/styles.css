@@ -46,7 +46,6 @@ header h1 {
  nav li{
  	margin: 10px;
  	border: 1px solid;
- 	border-color: black;
  	background-color: #F7F3DE;
  }
 
@@ -64,7 +63,7 @@ header h1 {
 
  #content {
  	background-image: url("trans-bg.gif"); 
- 	border: 1px solid #CCCCCC;
+ 	border: 1px solid black;
  	margin-left: 180px;
  	padding: 10px;
  }
