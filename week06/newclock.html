@@ -27,21 +27,22 @@
       if (hours > 12) {
         hours = hours - 12;
       }
-      var currentTime = hours + ':' + minutes + ':' + seconds + '  ' + timeOfDay;;
+      var currentTime = hours + ':' + minutes + ':' + seconds + '' + timeOfDay;
       var myClock = document.getElementById('clock');
       myClock.innerHTML = currentTime;
     }
   </script>
 
   <style>
-    div#clock {
+    div#clock{
       text-align: center;
-      backgrond-color: black;
+      background-color: black;
       color: white;
       padding: 10px;
       margin: 10px;
       width: 100px;
       font-family: sans-serif;
+      
     }
   </style>
 
