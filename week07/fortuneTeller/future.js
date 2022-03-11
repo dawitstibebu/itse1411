@@ -1,7 +1,7 @@
 var job = ["Teacher", "Designer", "Journalist", "Programmer"];
 var city = ["Dallas", "Houston", "Lubbock", "McAllen"];
 var spouse = ["Michelle", "Valerie", "Melissa", "Lilly"];
-var numKikds = [0,3,5,1];
+var numKids = [0,3,5,1];
 
 
 var xx = Math.floor(Math.random()*4);
